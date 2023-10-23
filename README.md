@@ -4,8 +4,6 @@
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](pedrobvivas.site/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.barrosvivas/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobvivas&show_icons=true&theme=dracula)
-
 ### Tecnologias que eu uso no meu dia
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
